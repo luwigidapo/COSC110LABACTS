@@ -1,5 +1,6 @@
 # COSC110LABACTS
  All activities in COSC110
+ 
 **ACT1: Computational Thinking with the Titanic Dataset using Python**
 I applied the four pillars of computational thinking to analyze the Titanic dataset. First, I decomposed the problem into data cleaning, exploration, and modeling. Next, I identified patterns like survival rates by class and age. Then, I abstracted key features (class, age, sex) while ignoring less relevant ones. Finally, I designed algorithms for imputing missing values and encoding categorical data to prepare the dataset for analysis.
 
